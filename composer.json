@@ -1,0 +1,6 @@
+{
+    "name": "yourls/qr-local",
+    "require": {
+        "endroid/qr-code": "^4.6"
+    }
+}
